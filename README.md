@@ -22,6 +22,20 @@ My personal developer portfolio built with **React, Vite, Tailwind CSS, Farmer m
 └── .gitignore
 ```
 
+## Screenshots
+
+### Homepage 
+![Home](screenshots/Home.png)
+
+### About 
+![About](screenshots/About.png)
+
+### Projects 
+![Projects](screenshots/Projects.png)
+
+### Experiences 
+![Experiences](screenshots/Experience.png)
+
 
 ## Features
 
